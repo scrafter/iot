@@ -1,0 +1,19 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "dashboards": "0.0.2",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "mqtt": "^2.7.2",
+    "node-restful": "^0.2.6"
+  }
+}
